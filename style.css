@@ -8,3 +8,8 @@ h1 {
     font-size: 48px;
     color: brown;
 }
+
+
+section {
+    display: flex;
+}
